@@ -1,0 +1,64 @@
+{
+	"camera_0":{
+		"device_id":0,
+		"width":1920,
+		"height":1080,
+		"formate":"YUYV"
+	},
+
+	"camera_1":{
+		"device_id":1,
+		"width":1920,
+		"height":1080,
+		"formate":"YUYV"
+	},
+
+	"camera_2":{
+		"device_id":2,
+		"width":1920,
+		"height":1080,
+		"formate":"YUYV"
+	},
+
+	"camera_3":{
+		"device_id":3,
+		"width":1920,
+		"height":1080,
+		"formate":"YUYV"
+	},
+
+	"camera_4":{
+		"device_id":4,
+		"width":1080,
+		"height":720,
+		"formate":"YUYV"
+	},
+
+	"camera_5":{
+		"device_id":5,
+		"width":1080,
+		"height":720,
+		"formate":"YUYV"
+	},
+
+	"camera_6":{
+		"device_id":6,
+		"width":800,
+		"height":600,
+		"formate":"YUYV"
+	},
+
+	"camera_7":{
+		"device_id":7,
+		"width":800,
+		"height":600,
+		"formate":"YUYV"
+	},
+
+	"camera_8":{
+                "device_id":9,
+                "width":0,
+                "height":0,
+                "formate":"EMPTY"
+	}
+}

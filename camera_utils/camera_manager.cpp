@@ -21,6 +21,9 @@ struct camera_param& camera_manager::get_camera_desc(const std::string cam_name)
 
 bool camera_manager::parse_camera_config_file(const char *path)
 {
+	if(path == NULL)
+		return false;
+	
 	std::ifstream in(path);
 	json cam_config;
 	in >> cam_config;
